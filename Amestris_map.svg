@@ -156,6 +156,7 @@
           font-family: Arial;
           -inkscape-font-specification: Arial;
         }
+
         .area:hover, .area.highlight {
           fill: #FFFF66;
         }
@@ -163,12 +164,15 @@
           fill: yellow;
           stroke: red;
         }
+
         .selected {
           fill: #CCCCFF;
         }
+
         .hidden {
           visibility: hidden;
         }
+
         text.areavals {
           font-size: 20px;
           font-style: normal;
